@@ -1,7 +1,7 @@
 # LR2
 репозиторий для лабораторной 2
 Prokin_Markelow
-Fedor_Gleb
+Federico_Glebollo
 Dmitrievich_Nikolaevich
 Speciality: Software
 Discipline: KIAPS
